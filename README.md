@@ -33,4 +33,4 @@ npm install inquirer@8.2.4 mysql2 dotenv
 ## Walk-Through Video 
 ![](./Screenshot%202024-01-11%20072433.png) 
 
-[See it in use]()
+[See it in use](http)
